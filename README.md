@@ -49,7 +49,7 @@ To use this Work Day Scheduler, follow these steps:
 
 ## Live URL
 
-You can access the live version of this Work Day Scheduler [here](https://vikramadityad.github.io/WorkDay_Scheduler/).
+You can access the live version of this Work Day Scheduler https://vikramadityad.github.io/Weather_Dashboard/
 
 ## Contributing
 
