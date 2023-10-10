@@ -1,5 +1,3 @@
-
-
 # Work Day Scheduler
 
 ![GitHub Repo Badge][(https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/vikramadityad/WorkDay_Scheduler)
