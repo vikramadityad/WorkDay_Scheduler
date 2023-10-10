@@ -1,7 +1,5 @@
 # Work Day Scheduler
 
-![GitHub Repo Badge][(https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/vikramadityad/WorkDay_Scheduler)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -68,6 +66,9 @@ If you would like to contribute to this project, please follow these guidelines:
    git push origin feature-name
 5. Create a pull request to the main repository.
 
+## Acknowledgement
+
+https://github.com/coding-boot-camp/crispy-octo-meme
 
 ## License
 
