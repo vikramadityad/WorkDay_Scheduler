@@ -17,13 +17,18 @@ $(function () {
     localStorage.setItem(btnId, inputval);
   })
 
-  $(document).ready(function(){
-    console.log('test')
-    for (var i = 0; i < localStorage.length; i++){
-      console.log(localStorage.getItem(localStorage.key(i)))
-  }
+
+  $(document).ready(function () {
+       $('#currentDay').text(new Date().toLocaleString());
+      for (var i = 0; i < localStorage.length; i++) {
+      var key = localStorage.key(i);
+      var value = localStorage.getItem(key);
+      if (key.match(/^hour-\d+$/)) {
+             $(`#${key} .description`).val(value);
+      }
+    }
+  });
     //  $('#hour-9 .description').val(localStorage.getItem('hour-9'))
-  })
 
  
 
